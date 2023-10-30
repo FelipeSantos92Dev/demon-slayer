@@ -1,8 +1,8 @@
-# Projeto de Análise de Demon Slayer
+# Guia Demon Slayer
 
 [![Capa do Projeto](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/75/Anime_Slide.png)](https://github.com/FelipeSantos92Dev/demon-slayer)
 
-Este repositório contém um projeto desenvolvido em Next.js, TypeScript, Tailwind CSS e PostgreSQL para análise de dados relacionados ao anime Demon Slayer (Kimetsu no Yaiba). O projeto foi criado com o objetivo de explorar e visualizar informações sobre a série, personagens, episódios e muito mais.
+Este repositório contém um projeto desenvolvido em Next.js, TypeScript, Tailwind CSS e PostgreSQL que serve como um guia interativo para os fãs do anime Demon Slayer (Kimetsu no Yaiba). Este guia fornece informações detalhadas sobre os personagens da série, incluindo sua história, habilidades e papéis na trama.
 
 ## Visão Geral
 
@@ -80,4 +80,4 @@ Este projeto é licenciado sob a MIT License - consulte o arquivo [LICENSE](LICE
 
 ---
 
-Desenvolvido com ❤️ por [Felipe Santos](URL_DO_SEU_SITE).
+Desenvolvido por [Felipe Santos](URL_DO_SEU_SITE) e [Stefanny Rodrigues](URL_DO_SEU_SITE).
