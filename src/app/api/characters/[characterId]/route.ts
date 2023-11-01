@@ -7,9 +7,9 @@ export async function PATCH(req: Request, { params }: { params: { characterId: s
   try {
     const body = await req.json()
 
-    const { name } = body
+    const { name, race, title, gender, age, birthday, combat_style } = body
 
-    if (!name) {
+    if (!name || !race || !title) {
       return new NextResponse('Parâmetros incorretos', { status: 400 })
     }
 
@@ -33,6 +33,12 @@ export async function PATCH(req: Request, { params }: { params: { characterId: s
       },
       data: {
         name,
+        race,
+        title,
+        gender: gender ? gender : 'Desconhecido',
+        age: age ? age : 0,
+        birthday: birthday ? birthday : 'Desconhecido',
+        combat_style: combat_style ? combat_style : 'Desconhecido',
         updatedAt: addHours(new Date(), -3)
       }
     })

@@ -66,8 +66,8 @@ Acesse o aplicativo em seu navegador em http://localhost:3000.
 
 - [x] Criação de pasta na nuvem para armazenamento de imagens
 - [x] Conexão com o banco de dados
-- [ ] Criação do model de personagens
-- [ ] Criação do endpoint de personagens
+- [x] Criação do model de personagens
+- [x] Criação do endpoint de personagens
 - [ ] Criação do model de lugares
 - [ ] Criação do endpoint de lugares
 - [ ] Criação do design do site utilizando o Figma
