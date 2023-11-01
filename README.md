@@ -62,17 +62,29 @@ yarn dev
 
 Acesse o aplicativo em seu navegador em http://localhost:3000.
 
+## Desenvolvimento de Novas Features
+
+- [x] Criação de pasta na nuvem para armazenamento de imagens
+- [x] Conexão com o banco de dados
+- [ ] Criação do model de personagens
+- [ ] Criação do endpoint de personagens
+- [ ] Criação do model de lugares
+- [ ] Criação do endpoint de lugares
+- [ ] Criação do design do site utilizando o Figma
+- [ ] Desenvolvimento de páginas de lista dos personagens
+- [ ] Desenvolvimento de páginas de detalhes dos personagens
+- [ ] Desenvolvimento de páginas de lista dos lugares
+- [ ] Desenvolvimento de páginas de detalhes dos lugares
+- [ ] Desenvolvimento da página inicial
+- [ ] Adição de funcionalidade de pesquisa
+- [ ] Implementação da autenticação de usuário
+- [ ] Implementação de um painel de administração
+
+Sinta-se à vontade para adicionar mais etapas de desenvolvimento de acordo com as necessidades do projeto.
+
 ## Contribuição
 
-Se você deseja contribuir para este projeto, sinta-se à vontade para abrir problemas e solicitações de pull. Ficaremos felizes em receber contribuições!
-
-## Licença
-
-Este projeto é licenciado sob a MIT License - consulte o arquivo LICENSE para obter mais detalhes.
-
-## Contribuição
-
-Se você deseja contribuir para este projeto, sinta-se à vontade para abrir problemas e solicitações de pull. Ficaremos felizes em receber contribuições!
+Se você deseja contribuir para este projeto, sinta-se à vontade para abrir issues e pull requests. Ficaremos felizes em receber contribuições!
 
 ## Licença
 
