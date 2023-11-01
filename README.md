@@ -92,4 +92,4 @@ Este projeto é licenciado sob a MIT License - consulte o arquivo [LICENSE](LICE
 
 ---
 
-Desenvolvido por [Felipe Santos](URL_DO_SEU_SITE) e [Stefanny Rodrigues](URL_DO_SEU_SITE).
+Desenvolvido por [Felipe Santos](https://github.com/FelipeSantos92Dev) e [Stefanny Rodrigues](https://github.com/Stefanny44).
