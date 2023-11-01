@@ -2,7 +2,7 @@
 
 [![Capa do Projeto](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/75/Anime_Slide.png)](https://github.com/FelipeSantos92Dev/demon-slayer)
 
-Este repositório contém um projeto desenvolvido em Next.js, TypeScript, Tailwind CSS e PostgreSQL que serve como um guia interativo para os fãs do anime Demon Slayer (Kimetsu no Yaiba). Este guia fornece informações detalhadas sobre os personagens da série, incluindo sua história, habilidades e papéis na trama.
+Este é o repositório de um projeto abrangente que combina o desenvolvimento de uma API e um site público voltado para os aficionados pelo anime Demon Slayer (Kimetsu no Yaiba). O projeto foi construído utilizando tecnologias de ponta, incluindo Next.js, TypeScript, Tailwind CSS e PostgreSQL, e se propõe a oferecer aos fãs um guia interativo e informativo abrangendo todos os aspectos do mundo de Demon Slayer. O guia detalha extensivamente os personagens da série, explorando suas origens, habilidades e impacto na trama, proporcionando uma experiência imersiva e enriquecedora para os entusiastas.
 
 ## Visão Geral
 
@@ -39,7 +39,7 @@ Siga estas etapas para executar o projeto em sua máquina:
 1. Clone o repositório
 
 ```sh
-git clone
+git clone https://github.com/FelipeSantos92Dev/demon-slayer.git
 ```
 
 2. Navegue para o diretório do projeto:
