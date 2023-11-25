@@ -1,3 +1,0 @@
--- AlterTable
-ALTER TABLE "characters" ALTER COLUMN "race" DROP DEFAULT,
-ALTER COLUMN "title" DROP DEFAULT;
